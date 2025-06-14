@@ -1,55 +1,93 @@
-# 👋 Hello, I'm **Amishka Thejan**
+# 👋 Hey there! I'm **Amishka Thejan**
 
 🎓 **Undergraduate Student**  
-**Faculty of Technology**, University of Sri Jayewardenepura
+Faculty of Technology, University of Sri Jayewardenepura  
+📍 Based in Sri Lanka  
 
 ---
 
-## 🧑‍💻 Introduction
+## 🌟 About Me
 
-I’m an enthusiastic undergraduate passionate about both **hardware** and **software**.  
-With hands-on experience in **PC troubleshooting**, **creative tools**, and **web technologies**,  
-I enjoy solving real-world problems and building practical solutions.
+I'm a passionate and curious undergraduate studying at the **University of Sri Jayewardenepura**, Faculty of Technology.  
+My interests lie in **technology, software development, creative design**, and **problem-solving**. I love building things that make people's lives easier — whether it's a script, a website, a visual effect, or a powerful presentation.
 
 ---
 
-## 🛠️ Skills
+## 🎯 Career Objective
 
-### 💻 Technical Support
-- ✅ PC Troubleshooting
+To become a well-rounded **IT professional** with strong skills in **software development**, **IT support**, and **creative design**, while continuously learning and contributing to impactful real-world projects.
 
-### 📊 Office Applications
-- ✅ Microsoft Word  
-- ✅ Microsoft Excel  
-- ✅ Microsoft PowerPoint  
-- ✅ Microsoft Access  
+---
 
-### 🎨 Adobe Creative Suite
-- ✅ Adobe After Effects (AE)  
-- ✅ Adobe Premiere Pro (PR)  
-- ✅ Adobe Photoshop (PS)  
-- ✅ Adobe Illustrator (IL)  
+## 🛠️ Technical Skills
 
-### 💻 Programming & Web
-- ✅ Python  
-- ✅ C  
-- ✅ HTML / CSS  
-- ✅ PHP  
+### 💻 Hardware & Technical Support
+- 🔧 PC Building & Troubleshooting
+- 🖥️ Software Installation & System Maintenance
+
+### 📊 Office Tools
+- 📄 Microsoft Word
+- 📊 Microsoft Excel
+- 📽️ Microsoft PowerPoint
+- 📁 Microsoft Access
+
+### 🎨 Creative & Design Tools
+- 🎬 Adobe After Effects (AE)
+- 🎞️ Adobe Premiere Pro (PR)
+- 🖌️ Adobe Photoshop (PS)
+- 🖍️ Adobe Illustrator (IL)
+
+### 💻 Programming & Web Development
+- 🐍 Python
+- 🌐 HTML, CSS
+- 🧩 PHP
+- ⚙️ C
+
+---
+
+## 🤹‍♂️ Soft Skills
+- ✅ Team Collaboration
+- ✅ Fast Learner
+- ✅ Adaptability
+- ✅ Time Management
+- ✅ Attention to Detail
+- ✅ Creative Thinking
+
+---
+
+## 🧰 Tools & Platforms
+- 💻 VS Code, Sublime Text
+- 🔗 Git & GitHub
+- 🐧 Linux (basic usage)
+- ☁️ Google Workspace
+- 🗂️ File & Data Management
 
 ---
 
 ## 🌐 Languages
-- 🗣️ English  
-- 🗣️ Sinhala  
+- 🇬🇧 English — Professional Working Proficiency  
+- 🇱🇰 Sinhala — Native
 
 ---
 
-## 🎯 Interests
-- 💡 Technology  
-- 👨‍💻 Software Development  
-- 🎨 Graphic Design  
-- 🎬 Video Editing  
+## 📌 Interests
+- 💡 Technology & Innovation  
+- 👨‍💻 Web & Software Development  
+- 🎨 Graphic Design & Motion Graphics  
+- 🎬 Video Editing & Visual Storytelling  
+- 📚 Continuous Learning  
 
 ---
 
-_📫 Thank you for reading my profile!_
+## 📫 Let's Connect!
+- 📧 Email: `youremail@example.com` *(Add yours here)*
+- 🌐 Portfolio: `yourwebsite.com` *(If you have one)*
+- 🔗 GitHub: [github.com/yourusername](https://github.com/yourusername) *(Optional)*
+
+---
+
+> _“Strive not to be a success, but rather to be of value.” – Albert Einstein_
+
+---
+
+_Thank you for taking the time to read my profile!_ 😊
